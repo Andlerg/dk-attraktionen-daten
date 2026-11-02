@@ -26,6 +26,9 @@ CATEGORIES = [
     ("sehenswert", [("tourism", "attraction")]),
 ]
 NEEDS_WEBSITE = {"sehenswert"}
+# Burgen/Schloesser/Gutshoefe: viele Eintraege in OSM sind Ruinen, Huegel oder Privatbesitz.
+# Behalten wird nur, was eine Webseite hat oder als bedeutend gilt (wikidata/wikipedia-Eintrag).
+NEEDS_NOTABLE = {"burg"}
 ORDER = {key: i for i, (key, _) in enumerate(CATEGORIES)}
 
 # Plausibler Bereich für Dänemark (inkl. Bornholm); alles außerhalb wird verworfen.
@@ -88,6 +91,8 @@ def category_of(tags):
     for key, filters in CATEGORIES:
         if any(tags.get(k) == v for k, v in filters):
             if key in NEEDS_WEBSITE and not website_of(tags):
+                continue
+            if key in NEEDS_NOTABLE and not (website_of(tags) or tags.get("wikidata") or tags.get("wikipedia")):
                 continue
             return key
     return None
