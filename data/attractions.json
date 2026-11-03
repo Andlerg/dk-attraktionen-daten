@@ -1,4 +1,4 @@
-{"generated":"2026-11-02T13:44:37+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-03T08:25:52+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -39,7 +39,7 @@
 {"id":"way/635792100","n":"Besættelsesmuseet","la":56.15739,"lo":10.21145,"c":"museum","w":"https://www.besaettelsesmuseet.dk/","o":"Mo-Tu off; We-Fr 13:00-17:00; Sa-Su 11:00-17:00"},
 {"id":"way/191916475","n":"Besættelsesmuseum Fyn","la":55.47344,"lo":10.33051,"c":"museum","w":"http://besaettelsesmuseumfyn.dk/","d":"Bygningen er en tysk bunker fra WW2"},
 {"id":"way/307559595","n":"Bindeballe Gl. Station","la":55.65696,"lo":9.26088,"c":"museum"},
-{"id":"way/307559550","n":"Bindeballe Købmandsgaard","la":55.6567,"lo":9.26008,"c":"museum","w":"http://www.bindeballekoebmandsgaard.dk/"},
+{"id":"way/307559550","n":"Bindeballe Købmandsgaard","la":55.6567,"lo":9.26007,"c":"museum","w":"http://www.bindeballekoebmandsgaard.dk/"},
 {"id":"way/363426747","n":"Bindslev Gamle Elværk","la":57.53887,"lo":10.18683,"c":"museum","w":"http://bindslevglel.dk"},
 {"id":"way/333829538","n":"Birkerød Kunstforening","la":55.8399,"lo":12.42914,"c":"museum","w":"https://www.birkeroed-kunstforening.dk/","o":"Tu-Fr 14:00-17:00; Sa 11:00-15:00; Su 14:00-17:00"},
 {"id":"way/333829976","n":"Birkerød lokalhistoriske arkiv og museum","la":55.84216,"lo":12.43107,"c":"museum","w":"http://www.xn--birkerdlokalhistoriskearkivogmuseum-vsd.dk/"},
@@ -653,7 +653,7 @@
 {"id":"way/819066558","n":"Panzermuseum East","la":55.3492,"lo":11.50536,"c":"museum","w":"https://panzermuseumeast.dk/","o":"May-Oct Tu-Su 10:00-16:00"},
 {"id":"node/2959919953","n":"Papirmuseet","la":56.17063,"lo":9.55536,"c":"museum","w":"http://www.museumsilkeborg.dk/velkommen-til-papirmuseet"},
 {"id":"way/1367289908","n":"Pernille Lykkes Boder","la":55.39837,"lo":10.39391,"c":"museum"},
-{"id":"node/9230848788","n":"Perron1","la":56.04359,"lo":9.92623,"c":"museum","w":"https://www.museumskanderborg.dk/perron-1","o":"10:00-18:00"},
+{"id":"way/49512202","n":"Perron1","la":56.04363,"lo":9.92621,"c":"museum","w":"https://www.museumskanderborg.dk/perron-1","o":"10:00-18:00"},
 {"id":"way/547703397","n":"Pibemagerhuset","la":57.0729,"lo":9.90239,"c":"museum","w":"https://sundbysamlingerne.dk/"},
 {"id":"way/171254332","n":"Polakhuset","la":56.44049,"lo":10.3406,"c":"museum"},
 {"id":"node/12049320176","n":"Politihistorisk Samling","la":55.43343,"lo":11.97058,"c":"museum","w":"https://politihistorisksamling.dk/"},
