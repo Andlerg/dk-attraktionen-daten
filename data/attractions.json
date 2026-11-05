@@ -1,4 +1,4 @@
-{"generated":"2026-11-04T07:53:21+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-05T08:20:35+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -396,7 +396,7 @@
 {"id":"node/10301547555","n":"Høgdal","la":56.10743,"lo":9.61565,"c":"museum","w":"https://hoegdal.silkeborg.dk"},
 {"id":"way/437945398","n":"Høkeren","la":55.44997,"lo":10.6586,"c":"museum","w":"https://www.ostfynsmuseer.dk/museer/hoekeren/"},
 {"id":"way/352483646","n":"Hørsholm Egns Museum","la":55.87521,"lo":12.50283,"c":"museum"},
-{"id":"node/2683302591","n":"Hørvævsmuseet på Krengerup","la":55.30971,"lo":10.11648,"c":"museum","o":"Mo-Fr 09:00-12:00"},
+{"id":"node/2683302591","n":"Hørvævsmuseet på Krengerup","la":55.30971,"lo":10.11648,"c":"museum","w":"https://hoervaevsmuseet.dk/","o":"Mo-Fr 09:00-12:00"},
 {"id":"way/555482089","n":"Høvlehuset","la":55.55803,"lo":8.17329,"c":"museum","w":"https://www.hoevlehuset.dk/","d":"Værktøjsmuseum med historisk værktøj fra 1700-1950","o":"Mo-Fr 16:30-18:00; Sa,Su 10:00-18:00"},
 {"id":"way/480092423","n":"I. C. Christensens Hus","la":56.1456,"lo":8.28261,"c":"museum","w":"https://www.jcchristensen.dk/"},
 {"id":"way/169762145","n":"Ikast-tårnet","la":56.13888,"lo":9.16039,"c":"museum"},
@@ -577,6 +577,7 @@
 {"id":"way/402008798","n":"Museum Silkeborg","la":56.16887,"lo":9.55308,"c":"museum","w":"http://www.museumsilkeborg.dk/"},
 {"id":"node/13701922921","n":"Museum Wegner","la":54.92855,"lo":8.88268,"c":"museum","w":"https://www.museumwegner.dk","o":"Tu-Su 10:00-17:00"},
 {"id":"node/8192291039","n":"Museum Wegner","la":54.9363,"lo":8.87105,"c":"museum","w":"https://www.museumwegner.dk/"},
+{"id":"node/14344907903","n":"Museum Wibergis","la":56.45154,"lo":9.41289,"c":"museum","w":"https://wibergis.dk/"},
 {"id":"node/6058940066","n":"Museum Willemoes","la":55.2698,"lo":9.89665,"c":"museum","w":"https://museumvestfyn.dk/"},
 {"id":"node/10703686013","n":"Museum Østjylland","la":56.46042,"lo":10.04076,"c":"museum","w":"https://museumoj.randers.dk/museum-oestjylland/"},
 {"id":"node/9473403512","n":"Museum Østjylland","la":56.20045,"lo":10.67874,"c":"museum","w":"https://maltfabrikken.dk/kategorier/bma/"},
