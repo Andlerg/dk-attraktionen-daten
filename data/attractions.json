@@ -1,4 +1,4 @@
-{"generated":"2026-11-07T07:38:56+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-08T07:47:56+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -35,6 +35,7 @@
 {"id":"way/104366855","n":"Bangsbo Museum","la":57.42023,"lo":10.50418,"c":"museum","w":"https://www.kystmuseet.dk/bangsbo-frederikshavn/"},
 {"id":"node/3491726139","n":"Barbie Museum","la":55.69727,"lo":12.52557,"c":"museum","w":"http://barbiemuseum.dk","o":"\"on appointment\""},
 {"id":"way/240056308","n":"Baunhøj Mølle","la":56.42151,"lo":10.8638,"c":"museum","w":"https://www.baunhoej-moelle.dk/","o":"Fr-Su 13:00-17:00"},
+{"id":"node/14353739232","n":"Beder-Mallings Egnsarkiv","la":56.0362,"lo":10.19713,"c":"museum"},
 {"id":"node/4395169879","n":"Bernstein Haus","la":56.70601,"lo":8.2176,"c":"museum","w":"https://www.visit-nordvestkysten.com/northwest-coast/whatson/rav-huset-thyboron-gdk1122277","o":"\"Open during the tourist season or by appointment\""},
 {"id":"way/635792100","n":"Besættelsesmuseet","la":56.15739,"lo":10.21145,"c":"museum","w":"https://www.besaettelsesmuseet.dk/","o":"Mo-Tu off; We-Fr 13:00-17:00; Sa-Su 11:00-17:00"},
 {"id":"way/191916475","n":"Besættelsesmuseum Fyn","la":55.47344,"lo":10.33051,"c":"museum","w":"http://besaettelsesmuseumfyn.dk/","d":"Bygningen er en tysk bunker fra WW2"},
