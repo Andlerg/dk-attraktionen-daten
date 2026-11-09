@@ -1,4 +1,4 @@
-{"generated":"2026-11-08T07:47:56+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-09T08:33:27+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -432,7 +432,7 @@
 {"id":"way/212837791","n":"Karl Hansens Hus","la":57.27182,"lo":9.69642,"c":"museum","w":"https://egnssamlingen.dk/","o":"Tu-Th 10:00-15:00; Fr 10:00-14:00; Sa[-1] 10:00-13:00"},
 {"id":"way/403538577","n":"Karup Flyvemuseum","la":56.27943,"lo":9.11983,"c":"museum","w":"https://www.karupflymuseum.dk/"},
 {"id":"relation/4640798","n":"Kastrupgårdsamlingen","la":55.63469,"lo":12.63863,"c":"museum","w":"https://www.kastrupgaardsamlingen.dk/"},
-{"id":"way/145738465","n":"Kate Lassens hus","la":56.92459,"lo":8.34827,"c":"museum"},
+{"id":"way/145738465","n":"Kate Lassens hus","la":56.92459,"lo":8.34826,"c":"museum"},
 {"id":"way/166207307","n":"Kirsten Kjær Museum","la":57.07545,"lo":8.95817,"c":"museum","w":"https://www.kkmuseum.dk/"},
 {"id":"way/212849165","n":"Klim Kalkovn","la":57.10379,"lo":9.17046,"c":"museum","w":"https://hanherred.dk/havogfjord/klimkalkovn/","o":"May 1-Oct 1"},
 {"id":"way/1025789195","n":"Klimatorium","la":56.55379,"lo":8.30877,"c":"museum","w":"https://klimatorium.dk/","o":"10:00-15:00"},
