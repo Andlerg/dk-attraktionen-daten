@@ -1,4 +1,4 @@
-{"generated":"2026-11-11T08:07:50+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-12T08:44:01+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -198,7 +198,7 @@
 {"id":"way/367503944","n":"Elisabeth K571","la":55.59352,"lo":12.67599,"c":"museum","w":"https://www.museumamager.dk"},
 {"id":"node/4056775841","n":"Else Klugs Cafemuseum","la":56.12374,"lo":12.31171,"c":"museum","w":"http://museumns.dk/udstillinger/udstillingsteder-gilleleje/cafe-klugs-cafe/"},
 {"id":"way/586038341","n":"Elstrup Mølle","la":54.99205,"lo":9.89201,"c":"museum","w":"https://www.elstrupmolle.dk/"},
-{"id":"node/1280605798","n":"Emborg / Øm Kloster museum","la":56.05244,"lo":9.74996,"c":"museum","w":"https://www.museumskanderborg.dk/%C3%B8m-kloster"},
+{"id":"node/1280605798","n":"Emborg / Øm Kloster museum","la":56.05236,"lo":9.75002,"c":"museum","w":"https://www.museumskanderborg.dk/%C3%B8m-kloster"},
 {"id":"way/477096244","n":"Emil Aarestrups Hus","la":54.66535,"lo":11.7306,"c":"museum","w":"https://aarestrup-foreningen.dk/","o":"Jun-Aug: We,Su 13:00-16:00"},
 {"id":"node/13039875232","n":"Empiregården","la":55.04231,"lo":12.19474,"c":"museum","w":"https://museerne.dk/pages/moens-museum-empiregaarden"},
 {"id":"way/356963740","n":"Endelave Museum","la":55.75796,"lo":10.27191,"c":"museum","w":"https://endelave-museum.dk"},
