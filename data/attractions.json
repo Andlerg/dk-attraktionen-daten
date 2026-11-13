@@ -1,4 +1,4 @@
-{"generated":"2026-11-12T08:44:01+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-13T08:35:36+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -963,7 +963,6 @@
 {"id":"way/940985293","n":"Lalandia","la":56.1205,"lo":8.11933,"c":"freizeitpark","w":"https://www.lalandia.dk/en/s%C3%B8ndervig"},
 {"id":"way/258614796","n":"Lalandia Billund","la":55.73288,"lo":9.13883,"c":"freizeitpark","w":"https://www.lalandia.dk/da-dk/billund"},
 {"id":"node/1709319476","n":"Legejunglen Falster","la":54.75881,"lo":11.85248,"c":"freizeitpark","w":"https://www.legejunglen.dk/","o":"We-Su 10:00-18:00"},
-{"id":"node/8809166035","n":"Legejunglen Slagelse","la":55.38762,"lo":11.35914,"c":"freizeitpark","w":"http://www.legejungle.dk/sl/","o":"We-Su 10:00-18:00"},
 {"id":"way/173009084","n":"LegeJunglen Slangerup","la":55.84418,"lo":12.18037,"c":"freizeitpark","w":"https://www.legejunglen.dk/slangerup-velkommen-til-legejunglen/","o":"We-Su 10:00-18:00"},
 {"id":"way/34963526","n":"Legoland","la":55.73594,"lo":9.12533,"c":"freizeitpark","w":"https://www.legoland.dk"},
 {"id":"node/1124821870","n":"Limfjords camping og vandland","la":56.62231,"lo":8.7294,"c":"freizeitpark","w":"https://www.limfjords.dk/"},
