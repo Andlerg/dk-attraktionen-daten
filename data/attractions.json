@@ -1,4 +1,4 @@
-{"generated":"2026-11-13T08:35:36+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-14T07:54:28+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -1070,7 +1070,7 @@
 {"id":"node/14076821217","n":"Hygge Dyrehave","la":56.50291,"lo":8.20876,"c":"zoo","w":"https://www.hyggedyrehave.dk","o":"Tu-Su 10:00-18:00"},
 {"id":"way/26952581","n":"Jyllands Park Zoo","la":56.09496,"lo":8.80768,"c":"zoo","w":"https://www.jyllandsparkzoo.dk/"},
 {"id":"way/224158630","n":"Jyllandsakvariet","la":56.70582,"lo":8.21582,"c":"zoo","w":"https://jyllandsakvariet.dk/"},
-{"id":"way/208295188","n":"Jyllandsakvariet Hvide Sande","la":55.99844,"lo":8.12274,"c":"zoo","w":"https://jyllandsakvariet.dk/da/akvariet-hvide-sande/praktisk-info-hvidesande/"},
+{"id":"way/208295188","n":"Jyllandsakvariet Hvide Sande","la":55.99846,"lo":8.12275,"c":"zoo","w":"https://jyllandsakvariet.dk/da/akvariet-hvide-sande/praktisk-info-hvidesande/"},
 {"id":"node/11078943969","n":"Kaniner","la":57.09407,"lo":8.71411,"c":"zoo"},
 {"id":"way/145905991","n":"Kattegatcentret","la":56.40622,"lo":10.92679,"c":"zoo","w":"https://www.kattegatcentret.dk/"},
 {"id":"node/13593456716","n":"Klokkerholm Dyrepark","la":57.20972,"lo":10.14451,"c":"zoo","w":"https://www.klokkerholmdyrepark.dk/"},
@@ -1274,7 +1274,7 @@
 {"id":"way/152315296","n":"Farumgård","la":55.80596,"lo":12.3605,"c":"burg"},
 {"id":"way/249798333","n":"Favrskov","la":56.33643,"lo":9.99091,"c":"burg"},
 {"id":"way/128346356","n":"Fjællebro","la":55.18865,"lo":10.4546,"c":"burg"},
-{"id":"way/4218311","n":"Flakfortet","la":55.70342,"lo":12.7316,"c":"burg","w":"http://www.flakfortet.dk/"},
+{"id":"way/4218311","n":"Flakfortet","la":55.70342,"lo":12.7316,"c":"burg","w":"https://flakfortet.com/"},
 {"id":"way/249808317","n":"Flenstofte","la":55.21397,"lo":9.99823,"c":"burg"},
 {"id":"way/128444842","n":"Flintholm","la":55.11128,"lo":10.42807,"c":"burg"},
 {"id":"way/249994704","n":"Fodbygård","la":55.23191,"lo":11.70823,"c":"burg"},
