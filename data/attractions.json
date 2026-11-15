@@ -1,4 +1,4 @@
-{"generated":"2026-11-14T07:54:28+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-15T08:19:20+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -304,7 +304,7 @@
 {"id":"node/13859274571","n":"Grundfos Museum: The Factory","la":56.37657,"lo":9.66581,"c":"museum","w":"https://www.grundfos.com/dk/about-us/who-we-are/the-history-of-grundfos/grundfos-museum","o":"Su[1] 11:00-15:00"},
 {"id":"node/13859274573","n":"Grundfos Museum: The Founder’s Home","la":56.37624,"lo":9.66597,"c":"museum","w":"https://www.grundfos.com/dk/about-us/who-we-are/the-history-of-grundfos/grundfos-museum"},
 {"id":"node/10836844305","n":"Grundtvigs Mindestuer","la":55.07557,"lo":11.94744,"c":"museum","w":"https://www.oerslevkirke.dk/kirkerne/grundtvig-grundtvigs-mindestuer/se-grundtvigs-mindestuer"},
-{"id":"node/9604131179","n":"Gråbrødrekloster Museum","la":57.04721,"lo":9.9219,"c":"museum","w":"https://nordjyskemuseer.dk/u/graabroedekloster-museet/","o":"PH,Mo-Su 08:00-20:00"},
+{"id":"node/9604131179","n":"Gråbrødrekloster Museet","la":57.04721,"lo":9.9219,"c":"museum","w":"https://nordjyskemuseer.dk/u/graabroedekloster-museet/","o":"PH,Mo-Su 08:00-20:00"},
 {"id":"node/7786897675","n":"Grønbechs Gård","la":55.18342,"lo":14.70561,"c":"museum","w":"https://groenbechsgaard.dk/"},
 {"id":"relation/13710065","n":"Gubsø Garage","la":56.19806,"lo":9.52311,"c":"museum","w":"https://gubsoe.dk/"},
 {"id":"way/1502690182","n":"Gudenådalens Museum","la":56.37794,"lo":9.6456,"c":"museum","w":"https://www.gudenaadalens-museum.dk/","o":"May-Aug Tu-We, Sa-Su 14:00-17:00; Sep-Oct Su 14:00-17:00"},
