@@ -1,4 +1,4 @@
-{"generated":"2026-11-17T09:41:15+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-18T08:59:20+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -81,7 +81,6 @@
 {"id":"way/615515252","n":"By og Overfartsmuseet","la":55.33408,"lo":11.13705,"c":"museum","w":"https://www.byogoverfartsmuseet.dk/"},
 {"id":"way/335718235","n":"Byhistorisk Hus","la":55.66593,"lo":12.39419,"c":"museum","w":"https://byhistoriskhus.dk/","o":"Tu; Th 13:00-17:00"},
 {"id":"node/13737888175","n":"Byhistorisk Samling","la":55.64351,"lo":12.30802,"c":"museum"},
-{"id":"way/222626694","n":"Bymuseet","la":55.94865,"lo":8.49142,"c":"museum","d":"Udstilling om Skjern Å-naturprojekt og Skjern Å-dalens historie"},
 {"id":"node/4369954267","n":"Bådemotorklubben Columbus","la":55.18402,"lo":14.70252,"c":"museum","o":"13:00-17:00"},
 {"id":"way/403364667","n":"Bådfolk ved Vidåen","la":54.95635,"lo":8.68512,"c":"museum","d":"Et slags \"Frilandsmuseum\" omhandlende fiskeriet ved Vidåen op til ca 1920"},
 {"id":"way/374737393","n":"Bælum Mølle","la":56.83533,"lo":10.10846,"c":"museum","w":"https://www.baelum.dk/lokalt/historie/moellen/","o":"Jun-Aug Su 14:00-17:00"},
@@ -226,6 +225,7 @@
 {"id":"way/241141077","n":"Fanø Kunstmuseum","la":55.34908,"lo":8.47106,"c":"museum","w":"https://www.fanoekunstmuseum.dk/","o":"Tu-Su 13:00-17:00; Mo off"},
 {"id":"node/13015592320","n":"Fanø Museum","la":55.44544,"lo":8.40364,"c":"museum","o":"2025 Apr 13-2025 Oct 17 Mo-Fr,Su 11:00-15:00"},
 {"id":"way/213162349","n":"Fanø Skibsfart & Dragtsamling","la":55.44729,"lo":8.40631,"c":"museum","w":"https://fanoskibs-dragt.dk/","o":"Mo-Sa 11:00-16:00; Su off"},
+{"id":"way/132149125","n":"Farbror Svends Samling","la":55.63794,"lo":9.66261,"c":"museum","w":"https://www.borkopvandmolle.dk/oplevelser/museet/"},
 {"id":"way/1565756227","n":"Farvergården","la":56.19929,"lo":10.67763,"c":"museum","w":"https://museumoj.randers.dk/besoeg/%C3%A5bningstider-og-adresser/farvergaarden-i-ebeltoft/","o":"Jun-Aug Tu-Su 10:00-16:00"},
 {"id":"way/659744274","n":"Farvergården","la":55.44966,"lo":10.65794,"c":"museum","o":"PH,Mo-Su 10:00-16:00"},
 {"id":"node/12046199321","n":"Fejø Tekniske Museum","la":54.93882,"lo":11.38128,"c":"museum","w":"https://www.fejoe-tekniske-museum.dk/"},
