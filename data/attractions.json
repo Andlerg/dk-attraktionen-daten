@@ -1,4 +1,4 @@
-{"generated":"2026-11-23T09:43:09+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-24T11:31:20+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -1868,7 +1868,7 @@
 {"id":"way/95003356","n":"Vrejlev Kloster","la":57.36165,"lo":10.00211,"c":"burg"},
 {"id":"way/286329641","n":"Vår","la":57.00164,"lo":9.45195,"c":"burg"},
 {"id":"way/263202186","n":"Wedellsborg","la":55.36761,"lo":9.81984,"c":"burg","w":"http://wedellsborg.dk"},
-{"id":"way/94126142","n":"Wedelslund","la":56.17447,"lo":9.91697,"c":"burg"},
+{"id":"way/94126142","n":"Wedelslund","la":56.17447,"lo":9.91694,"c":"burg"},
 {"id":"way/95455657","n":"Willestrup","la":56.76419,"lo":9.95327,"c":"burg"},
 {"id":"way/234423545","n":"Williamsborg","la":55.7341,"lo":9.7181,"c":"burg"},
 {"id":"way/164548709","n":"Wohnhaus","la":55.17381,"lo":14.95345,"c":"burg"},
