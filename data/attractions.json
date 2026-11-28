@@ -1,4 +1,4 @@
-{"generated":"2026-11-27T10:00:18+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
+{"generated":"2026-11-28T09:16:03+00:00","source":"OpenStreetMap-Mitwirkende (ODbL), Auszug von Geofabrik","items":[
 {"id":"way/350702887","n":"Aa Mølle","la":56.54161,"lo":8.50325,"c":"museum"},
 {"id":"way/432939985","n":"Aabenraa Slotsmølle","la":55.04003,"lo":9.41414,"c":"museum"},
 {"id":"relation/12630847","n":"Aalborg Forsvars- og Garnisonsmuseum","la":57.05581,"lo":9.8827,"c":"museum","w":"https://www.forsvarsmuseum.dk/"},
@@ -953,7 +953,7 @@
 {"id":"way/97007120","n":"Jesperhus Blomsterpark","la":56.76121,"lo":8.82168,"c":"freizeitpark","w":"https://www.jesperhus.dk/"},
 {"id":"node/791583072","n":"Jesperhus Vandland","la":56.76456,"lo":8.81471,"c":"freizeitpark"},
 {"id":"way/539794441","n":"Jump-A-Lot","la":55.09619,"lo":9.26031,"c":"freizeitpark","w":"https://www.jumpalot.dk/"},
-{"id":"node/6754266530","n":"Jump-It","la":55.50733,"lo":9.46586,"c":"freizeitpark","w":"https://jump-it.dk/"},
+{"id":"node/6754266530","n":"Jump-It","la":55.50732,"lo":9.46549,"c":"freizeitpark","w":"https://jump-it.dk/"},
 {"id":"node/2864494089","n":"Kabelpark Hvide Sande","la":56.01858,"lo":8.13085,"c":"freizeitpark","w":"https://kabelpark.dk/"},
 {"id":"way/437935728","n":"Kalvehave Labyrintpark","la":55.01563,"lo":12.11128,"c":"freizeitpark","w":"https://www.kalvehave-labyrintpark.dk/"},
 {"id":"way/101798104","n":"KCS Badeland & Motion","la":56.5446,"lo":9.02524,"c":"freizeitpark","w":"https://kcskive.dk/badeland/","o":"Mo-Th 06:00-21:00; Fr 06:00-19:00; Sa-Su 07:00-17:00; PH 07:00-17:00"},
